@@ -1,3 +1,17 @@
+// TODO Local Fonts
+// import local from "next/font/local";
+// export const fontName = local({
+//   src: [
+//     {
+//       path: "../public/fonts/fontfull",
+//       weight: "400",
+//       style: "normal",
+//     },
+//   ],
+//   variable: "--font-fontName",
+// });
+// ----------------------------
+// TODO Google Fonts
 import { Poppins } from "next/font/google";
 
 export const poppins = Poppins({

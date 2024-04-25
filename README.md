@@ -18,7 +18,7 @@ This is a starter template to kickstart your development workflow with Next.js.
    In your terminal, navigate to your downloaded directory and execute the following command, replacing `[project-name]` with your desired project name:
 
    ```bash
-   npm create next-app [project-name] -e https://github.com/your-username/your-starter-repo
+   npx create-next-app [project-name] -e https://github.com/emrantawfeek/nextjs-starter
    ```
 
 3.  **Start Development:**
